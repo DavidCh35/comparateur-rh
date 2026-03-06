@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+requests
+beautifulsoup4
+scikit-learn
+selenium
+webdriver-manager
+groq
