@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Configuration Streamlit (contient la clé API)
+.streamlit/
+
+# Environnements virtuels
+venv/
+.env
+.venv/
+.venv
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc

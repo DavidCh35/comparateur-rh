@@ -35,7 +35,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- 2. GARDIEN DE FICHIER ---
-FICHIER_DATA = "data_final.csv"
+FICHIER_DATA = "data/data_final.csv"
 
 if not os.path.exists(FICHIER_DATA):
     st.error("🚨 Fichier de données absent.")
